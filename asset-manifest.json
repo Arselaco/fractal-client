@@ -10,8 +10,8 @@
     "static/js/3.94920380.chunk.js": "/fractal-client/static/js/3.94920380.chunk.js",
     "static/js/3.94920380.chunk.js.map": "/fractal-client/static/js/3.94920380.chunk.js.map",
     "main.css": "/fractal-client/static/css/main.c337689d.chunk.css",
-    "main.js": "/fractal-client/static/js/main.11046a3d.chunk.js",
-    "main.js.map": "/fractal-client/static/js/main.11046a3d.chunk.js.map",
+    "main.js": "/fractal-client/static/js/main.d44a5b0d.chunk.js",
+    "main.js.map": "/fractal-client/static/js/main.d44a5b0d.chunk.js.map",
     "runtime-main.js": "/fractal-client/static/js/runtime-main.28f43d88.js",
     "runtime-main.js.map": "/fractal-client/static/js/runtime-main.28f43d88.js.map",
     "static/css/6.a5c50a63.chunk.css": "/fractal-client/static/css/6.a5c50a63.chunk.css",
@@ -50,7 +50,7 @@
     "static/js/22.e9e14afa.chunk.js": "/fractal-client/static/js/22.e9e14afa.chunk.js",
     "static/js/22.e9e14afa.chunk.js.map": "/fractal-client/static/js/22.e9e14afa.chunk.js.map",
     "index.html": "/fractal-client/index.html",
-    "precache-manifest.753906f8c6cbc30474aff4af498e34ee.js": "/fractal-client/precache-manifest.753906f8c6cbc30474aff4af498e34ee.js",
+    "precache-manifest.32aee046ed5d1fbaa42e91abe5cc2f68.js": "/fractal-client/precache-manifest.32aee046ed5d1fbaa42e91abe5cc2f68.js",
     "service-worker.js": "/fractal-client/service-worker.js",
     "static/css/3.b6560306.chunk.css.map": "/fractal-client/static/css/3.b6560306.chunk.css.map",
     "static/css/6.a5c50a63.chunk.css.map": "/fractal-client/static/css/6.a5c50a63.chunk.css.map",
@@ -82,6 +82,6 @@
     "static/css/6.a5c50a63.chunk.css",
     "static/js/6.01ae755c.chunk.js",
     "static/css/main.c337689d.chunk.css",
-    "static/js/main.11046a3d.chunk.js"
+    "static/js/main.d44a5b0d.chunk.js"
   ]
 }
